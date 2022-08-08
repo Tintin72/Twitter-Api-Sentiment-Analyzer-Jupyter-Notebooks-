@@ -2,8 +2,7 @@ import os
 import tweepy
 import ssl
 import pandas as pd
-import nltk
-import ssl
+import nltk 
 import matplotlib.pyplot as plt
 from dotenv import load_dotenv
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
